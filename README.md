@@ -36,7 +36,7 @@ The final dashboard enables stakeholders to monitor forecast performance, analyz
 
 An interactive dashboard built to help business users analyze SIOP performance through dynamic charts, slicers, and KPI cards.
 
-**File:** `SIOP_Reporting.pbix`
+
 
 ---
 
